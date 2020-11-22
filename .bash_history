@@ -69,3 +69,40 @@ nano 4.4.c
 gcc -o 4.4.out 4.4.c
 ./4.4.out
 sudo reboot
+git init
+git add -A
+git commit -m "Server"
+git config --global user.email "2020970693@isiswa.uitm.edu.my"
+git config --global user.name "umarzikry20"
+git commit -m "Server site"
+git remote add https://github.com/umarzikry20/lab4.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/umarzikry20/lab4.git
+git branch -M main
+git push -u origin main
+git pull -A
+git push -u origin main
+ls
+git add -A
+git commit -m "Server site"
+git push -u origin main
+git remote add origin https://github.com/umarzikry20/lab4.git
+git commit -m "Server site"
+git status
+git remote add origin https://github.com/umarzikry20/lab4.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git add -A
+git commit -m "Server site"
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/umarzikry20/lab4.git
+git status
+./4.4.out
+ls
+sudo apt install git
+git remote add https://github.com/umarzikry20/lab4.git
+ifconfig
+sudo reboot
